@@ -1,4 +1,4 @@
 [build]
   base = "creator new design"
   command = "npm run build"
-  publish = "creator new design/dist"
+  publish = "dist"
